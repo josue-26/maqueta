@@ -1,0 +1,16 @@
+
+.text-center{
+	color: darkblue;
+}
+.carousel-caption{
+	text-align: left;
+	font-size: 40px ;
+	color: darkblue;
+}
+.card-body{
+	 color: black;
+}
+
+.container pt-5{
+	background-color: darkgray;
+}
